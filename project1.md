@@ -1,5 +1,5 @@
 Project 1:
-Due: Monday September 15
+Due: Monday September 15, Noon.
 Teaming: You must do this project yourself.
 
 Please submit your blog post here: https://docs.google.com/forms/d/e/1FAIpQLSdwxPTHp_a1A3iIGpE5SyrRAwf5NgfL7_tHO2Ts372YWgFcyg/viewform?usp=sharing&ouid=113271021017255380934
@@ -28,6 +28,8 @@ ago, or video game screen captures.  Any domain is ok, but I want to see you fi
 question well, and some example images and prompts where it answers the questions poorly, and hypothesize why you think it makes those 
 mistakes.
 
-Your blog post should be something like "three screenfulls"
+Your blog post should be something like "three screenfulls".  You should share what question or theme you are exploring, and why you picked that.  You should show example images and the question you ask the model about them (it is good practice to always share the exact image, the exact prompt and the exact response; although sometimes these can be "hidden" in the web blog post and you have to click something to see them).  You should share what you think about the results and why you think they are good and bad.
+
+I look forward to seeing what you share!
 
 
