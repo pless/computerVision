@@ -24,6 +24,12 @@ b) Modify the code to add noise to each of the 3D coordinates (Gaussian Zero-Mea
 locations (Gaussian Zero-Mean Random Variable, std 1 pixel).  Output a point cloud of the recovered camera locations after running 100 examples with different random noise.
 Also output a histogram of the values for the camea focal length.
 
+Code is here: 
+
+https://colab.research.google.com/github/pless/computerVision/blob/0700ce69e0fb69d3dc0d4d53fa551ce0781fc2f1/homework3/calibrate.ipynb#scrollTo=mjzZFq-OK_Li
+
+
+
 Part 2 -- Real world cameras.  
 
 Your job now is to replicate this and solve for the 3D coordinates of live webcams. 
@@ -46,3 +52,17 @@ Your blog post should share
 (a) a clear list of pixel coordinates and matching 3D lat/long/alt coordinates.
 (b) your recovered camera locations
 (c) any relevant or interesting about your process for finding image points and matching 3D coordinates.
+
+As one option, you can use Google Earth Pro (Free download):
+https://earth.google.com/
+
+I did not find a clean way to get 3D coordinates from the Google Earth Web browser.
+
+On Google Earth Pro, if you haven't used it much, you should start by getting comfortable navigating the 3D space, zooming in (e.g. to boston), tilting the view so you can see buildings from the side, etc.
+
+Then you can select the "little yellow pushpin" to put a placemark, which gives a little popup window where you can select "altitude --> absolute" and "track cursor height".
+
+With some playing you can see your cursor lat/long/and altitude on the bottom right of the screen (which you could copy down), or make a placemark at the height of objects in the scene.
+
+
+
